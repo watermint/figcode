@@ -1,0 +1,17 @@
+*.iml
+.history
+.idea
+/.classpath
+/.idea_modules
+/.project
+/.settings
+/build
+/data
+/out
+/RUNNING_PID
+dist
+logs
+project/project
+project/target
+target
+tmp
